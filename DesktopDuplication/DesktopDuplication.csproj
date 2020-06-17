@@ -8,6 +8,8 @@
     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <Authors>Nicolás de Ory</Authors>
+    <PackageVersion>1.0.1</PackageVersion>
+    <Version>1.0.1</Version>
     <PackageProjectUrl></PackageProjectUrl>
     <RepositoryUrl>https://github.com/nicolasdeory/desktop-duplication-net</RepositoryUrl>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>

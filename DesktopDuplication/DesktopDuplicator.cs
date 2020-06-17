@@ -126,8 +126,8 @@ namespace DesktopDuplication
 
         public void Dispose()
         {
-            mDevice.Dispose();
-            mDeskDupl.Dispose();
+            mDevice?.Dispose();
+            mDeskDupl?.Dispose();
         }
 
 
