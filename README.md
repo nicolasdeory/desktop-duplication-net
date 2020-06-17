@@ -1,7 +1,6 @@
-# desktop-duplication-net
-Windows 8 Desktop Duplication API for C# and .NET.
+# Desktop Duplication API for .NET Core
 
-Used to receive desktop frames in real time.
+Receive desktop frame data in real time, using the Windows 8 Desktop Duplication API.
 
 ## How to use
 
