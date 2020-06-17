@@ -2,6 +2,8 @@
 
 Receive desktop frame data in real time, using the Windows 8 Desktop Duplication API.
 
+[Install using NuGet](https://www.nuget.org/packages/DesktopDuplication/1.0.0)
+
 ## How to use
 
 ### Initialization
