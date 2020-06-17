@@ -166,6 +166,8 @@ namespace DesktopDuplication
                     throw new DesktopDuplicationException("Failed to acquire next frame.");
                 }
             }
+            if (desktopResource == null)
+                return false;
             using (var tempTexture = desktopResource.QueryInterface<Texture2D>())
                 mDevice.ImmediateContext.CopyResource(tempTexture, desktopImageTexture);
             desktopResource.Dispose();
